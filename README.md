@@ -114,7 +114,7 @@ For any questions or feedback, feel free to reach out:
 
 YOGESH T
 
-[<img src="LinkedIn Icon URL"/>](https://www.linkedin.com/in/yogesh-t-5424211bb/)
-[<img src="Email Icon URL"/>](mailto:higgsboson25022003@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/yogesh-t-5424211bb/)
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:higgsboson25022003@gmail.com)
 
 Project Link: [Data_structures](https://github.com/TechTrekker25/Data_structures)
